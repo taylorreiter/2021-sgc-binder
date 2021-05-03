@@ -15,6 +15,9 @@ dependencies:
     - bbhash>=0.5.4
     - sourmash>=4,<5
     - fastp=0.20.1
+    - bwa=0.7.17
+    - samtools=1.12
+    - megahit=1.2.9
     - pip
     - pip:
       - git+https://github.com/spacegraphcats/spacegraphcats@latest
